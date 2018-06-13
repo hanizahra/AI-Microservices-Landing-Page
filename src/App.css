@@ -1,7 +1,20 @@
 
-iframe {
-  height: 900px;
+/*iframe {
+  height: 500px;
   width: 500px;
+}*/
+
+/*.img-fluid {
+    width: 100% !important;
+    height: 100% !important;
+    position: relative;
+}*/
+
+.img-responsive {
+ 
+  width: 100vw;
+  height: 38vw;
+  position: relative;
 }
 
 a {
@@ -49,6 +62,10 @@ h1 {
   color: white;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
+
+#big-blue-button {
+/*  margin-top: 75px !important;
+*/}
 
 .btn-xl {
   text-transform: uppercase;
@@ -115,11 +132,6 @@ header.masthead .masthead-content .masthead-subheading {
   border-color: black;
 }
 
-
-.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #bd0760 !important;
-  border-color: #bd0760 !important;
-}
 
 .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(238, 9, 121, 0.5);
