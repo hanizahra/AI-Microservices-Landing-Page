@@ -1,7 +1,7 @@
 # Deep AI Microservices
 
 ## Description
-A web application that demos two APIs from [DeepAI](https://deepai.org/api-docs/) as a microservices.
+A web application that demos two APIs from [DeepAI](https://deepai.org/api-docs/) as a microservices. Both applications (React and Angular) are functional on the page as well as through their own linked standalone apps.  
 
 ### [Sentiment Analyzer](https://deepai.org/api-docs/#sentiment-analysis)
 A user inputs text to be analyzed and then receives one of a handful of possible sentiments: positive, very positive, neutral, negative, very negative. An expressive animation reflects the analysis. 
